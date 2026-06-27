@@ -144,10 +144,13 @@ Status    : Open to Internships & Cybersecurity Roles
   
 ---
 
-## 🏅 GitHub Trophies
+## 🏅 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arjunkr149&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://img.shields.io/badge/⭐%20Stars%20Earned-14-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔨%20Commits%20(2024)-113-2196F3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📁%20Public%20Repos-10+-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔐%20Focus-Cybersecurity-9C27B0?style=for-the-badge" />
 </p>
 
 ---
@@ -159,7 +162,7 @@ Status    : Open to Internships & Cybersecurity Roles
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunkr149&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arjunkr149&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunkr149&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
