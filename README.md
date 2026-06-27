@@ -173,7 +173,14 @@ Status    : Open to Internships & Cybersecurity Roles
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/arjunkr149/arjunkr149/blob/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/arjunkr149/arjunkr149/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/arjunkr149/arjunkr149/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation"
+      src="https://raw.githubusercontent.com/arjunkr149/arjunkr149/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ![Snake animation](https://github.com/arjunkr149/arjunkr149/blob/output/github-contribution-grid-snake-dark.svg)
