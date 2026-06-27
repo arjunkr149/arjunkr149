@@ -4,7 +4,7 @@
 <!-- Typing Header -->
 <h1 align="center">Hi 👋, I'm Arjun Kumar</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&lines=Aspiring+SOC+Analyst;Cybersecurity+Enthusiast;Network+Security+Learner;Threat+Detection+Explorer;CTF+Player+%7C+Kali+Linux+User" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&lines=Aspiring+SOC+Analyst;Cybersecurity+Enthusiast;Network+Security+Learner;Threat+Detection+Explorer;CTF+Player+%7C+Kali+Linux+User;DSA+Solver+%7C+148+Problems+Done!" />
 </h3>
 
 <!-- Profile Views + Followers -->
@@ -24,6 +24,7 @@ Focus     : Cybersecurity | SOC Operations | Threat Detection
 Location  : Greater Noida, Uttar Pradesh 🇮🇳
 Email     : aksir648@gmail.com
 Portfolio : https://arjunxploit.netlify.app/
+Codolio   : https://codolio.com/profile/arjun489
 Status    : Open to Internships & Cybersecurity Roles
 ```
 
@@ -35,6 +36,7 @@ Status    : Open to Internships & Cybersecurity Roles
 - 🌱 Learning **SIEM, Threat Detection & SOC Operations**
 - 📚 Exploring **TryHackMe rooms & CTF challenges**
 - 💬 Ask me about **Wireshark, Nmap, Kali Linux, Network Security**
+- 🧩 Solved **148 DSA problems** across LeetCode, GFG & HackerRank
 
 ---
 
@@ -81,18 +83,76 @@ Status    : Open to Internships & Cybersecurity Roles
 
 ---
 
+## 🌐 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/arjun_1010368/">
+    <img src="https://img.shields.io/badge/LeetCode-Rating%201478-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/23scse1010368">
+    <img src="https://img.shields.io/badge/HackerRank-43%20Solved-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/arjun_1010368">
+    <img src="https://img.shields.io/badge/CodeChef-Rating%2038-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://codolio.com/profile/arjun489">
+    <img src="https://img.shields.io/badge/Codolio-Rank%2010757-6C63FF?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/arjun23scs6zxr">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/arjun_1010368?theme=dark&font=Fira%20Code&ext=contest&border=0" />
+</p>
+
+---
+
+## 📈 DSA Progress
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Solved-148%20Problems-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Active%20Days-51-green?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Submissions-195-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contests-3-red?style=for-the-badge&logo=leetcode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Easy-27-00b8a3?style=flat-square&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Medium-37-ffa116?style=flat-square&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hard-3-ef4743?style=flat-square&logo=leetcode&logoColor=white" />
+</p>
+
+---
+
+## 🏅 HackerRank Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/10%20Days%20of%20Statistics-⭐⭐⭐-FFD700?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/30%20Days%20of%20Code-⭐⭐⭐⭐⭐-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-⭐⭐⭐-00BCD4?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
+---
+
 ## 🏆 Certifications
 
 | Certificate | Issuer | Year |
 |---|---|---|
 | 🧠 Google AI-ML Virtual Internship | Google × AICTE × EduSkills | 2024 |
-| 🛒 Flipkart GRiD 8.0 | Flipkart | 2026 |
-| 🔐 Cybersecurity Virtual Internship | Palo Alto Networks × AICTE × EduSkills | 2025 |
-| 💻 Front-End Developer Virtual Internship | EduSkills | 2025 |
+| 🛒 Flipkart GRiD 8.0 Hackathon | Flipkart | 2026 |
+| 🔐 Cybersecurity Virtual Internship | Palo Alto Networks × AICTE | 2025 |
+| 📊 Deloitte Australia Data Analytics Job Simulation | Deloitte Australia × Forage | 2026 |
+| 💻 Full Stack Web Development Internship | EduSkills | 2024 |
+| 🏆 Tech Nova Hackathon 2025 | Unstop | 2025 |
 | 📡 Network Traffic Analysis with Wireshark | Wireshark | 2026 |
-| 🤖 Generative AI Virtual Internship | Google for Developers × AICTE × EduSkills | 2025 |
-| 🎓 Hack Defence Summit 2026 Participation | Sohang Education | 2026 |
-| 💼 Infosys Springboard / InStep | Infosys | 2026 |
+| 🤖 Generative AI Virtual Internship | Google × AICTE × EduSkills | 2025 |
+| 🎓 Hack Defence Summit 2026 | Sohang Education | 2026 |
 
 ---
 
@@ -121,23 +181,23 @@ Status    : Open to Internships & Cybersecurity Roles
 
 ### 🔹 ClearLane AI — Traffic Violation Detection
 - YOLOv8 + EasyOCR based real-time vehicle detection
-- Deployed on Render.com | Submitted to Flipkart Grid 2.0
+- Deployed on Render.com | Submitted to Flipkart Grid 8.0
 - **Stack:** Python, Flask, OpenCV, YOLOv8
 
-### 🔹 CertifyChain
-- Blockchain-based certificate verification platform
-- Secure, tamper-proof issuance and validation of certificates
+### 🔹 CertifyChain — Blockchain Certificate Verification
+- Blockchain-based tamper-proof certificate issuance & validation
+- Claude AI powered OCR verification + QR code generation
+- **Stack:** Node.js, HTML, CSS, Anthropic API
 
-### 🔹 The Smart Library AI
+### 🔹 The Smart Library AI — BiblioAI
 - AI-powered library management system
-- Smart book recommendations, search, and automated management
+- Smart book recommendations, search & automated management
+- **Live:** [libraiq.netlify.app](https://libraiq.netlify.app)
 
-### 🔹 NETWATCH(Network Traffic Analysis) — Wireshark
-- Campus LAN Security Monitoring Dashboard
+### 🔹 NETWATCH — Campus LAN Security Monitor
+- University Edition network security monitoring dashboard
 - MITRE ATT&CK mapping + real-time IDS alerts
 - **Stack:** React, Cyberpunk UI, Simulated IDS
-- Captured and analyzed HTTP, DNS, TCP traffic
-- Detected suspicious packets & anomalies
 
 ### 🔹 International Debt Dashboard
 - Power BI dashboard for global debt analysis
@@ -146,15 +206,16 @@ Status    : Open to Internships & Cybersecurity Roles
 ### 🔹 E-Commerce Website
 - Responsive full-stack online shopping platform
 - Product browsing, cart, authentication, and order management
-  
+
 ---
 
 ## 🏅 Achievements
 
 <p align="center">
   <img src="https://img.shields.io/badge/⭐%20Stars%20Earned-14-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔨%20Commits%20(2024)-113-2196F3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔨%20Commits-113-2196F3?style=for-the-badge" />
   <img src="https://img.shields.io/badge/📁%20Public%20Repos-10+-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧩%20DSA%20Solved-148-FFA116?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🔐%20Focus-Cybersecurity-9C27B0?style=for-the-badge" />
 </p>
 
@@ -191,12 +252,10 @@ Status    : Open to Internships & Cybersecurity Roles
   </picture>
 </p>
 
-![Snake animation](https://github.com/arjunkr149/arjunkr149/blob/output/github-contribution-grid-snake-dark.svg)
-
 ---
 
 <p align="center">
   ⭐ <i>Focused on becoming a skilled SOC Analyst & Cybersecurity Professional</i>
-  <br/>
+  <br/><br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=4000&color=00F7FF&center=true&vCenter=true&lines=Thanks+for+visiting+my+profile!+%F0%9F%94%90;Let's+connect+and+collaborate!" />
 </p>
