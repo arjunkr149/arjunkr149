@@ -50,7 +50,7 @@ Status    : Open to Internships & Cybersecurity Roles
   <a href="https://arjunxploit.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00F7FF" />
   </a>
-  <a href="https://tryhackme.com/p/arjunkr149">
+  <a href="https://tryhackme.com/p/itsarjunkumar489">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
 </p>
@@ -85,9 +85,14 @@ Status    : Open to Internships & Cybersecurity Roles
 
 | Certificate | Issuer | Year |
 |---|---|---|
-| 🛡️ AI-ML Virtual Internship | AICTE × EduSkills | 2024 |
-| 🔐 Cybersecurity Fundamentals | Palo Alto Network | 2025 |
-| 📡 Network Analysis | Wireshark | 2026 |
+| 🧠 Google AI-ML Virtual Internship | Google × AICTE × EduSkills | 2024 |
+| 🛒 Flipkart GRiD 8.0 | Flipkart | 2026 |
+| 🔐 Cybersecurity Virtual Internship | Palo Alto Networks × AICTE × EduSkills | 2025 |
+| 💻 Front-End Developer Virtual Internship | EduSkills | 2025 |
+| 📡 Network Traffic Analysis with Wireshark | Wireshark | 2026 |
+| 🤖 Generative AI Virtual Internship | Google for Developers × AICTE × EduSkills | 2025 |
+| 🎓 Hack Defence Summit 2026 Participation | Sohang Education | 2026 |
+| 💼 Infosys Springboard / InStep | Infosys | 2026 |
 
 ---
 
